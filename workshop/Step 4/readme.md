@@ -1,5 +1,0 @@
--- extract the Superset archive
--- open superset and import in this order:
-  - datasets
-  - Charts
-  - Dashboard
